@@ -8,10 +8,8 @@ PL/SQL y las interacciones con una base de datos Oracle.
 ## Contenido del Repositorio
 
 - **Scripts:** Este directorio contiene los scripts de PL/SQL que abarcan una variedad de conceptos y casos de uso comunes. Los scripts
-- estan organizados en subdirectorios según las diferentes funcionalidades.
+estan organizados en subdirectorios según las diferentes funcionalidades.
 
-- **Base de Datos Ficticia:** Se incluye un archivo de copia de seguridad de una base de datos ficticia en formato .dmp. Puedes importar
-- este archivo a tu instancia de Oracle para explorar y practicar los scripts en un entorno simulado.
 
 ## Uso y Contribuciones
 
