@@ -1,0 +1,1 @@
+REVOKE INSERT, UPDATE ON empleados FROM usuario;

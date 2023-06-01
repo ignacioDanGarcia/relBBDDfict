@@ -1,0 +1,1 @@
+CREATE USER nuevo_usuario IDENTIFIED BY contraseña;
